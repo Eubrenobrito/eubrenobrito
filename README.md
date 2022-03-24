@@ -4,7 +4,7 @@
 <h3 align="center">
 <i>eubrenobrito</i><br>
 Estudando front-end<br>
-Focado em JavaScript<br>
+Focado em JavaScript, TypeScript e Angular<br>
 E-mail: brenobrito_13@hotmail.com <br>
 </h3>
  <br>
